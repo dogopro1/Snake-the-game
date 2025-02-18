@@ -9,7 +9,7 @@ To play Snake Game, follow these simple steps:
 1. **Download Instructions:**
    - Clone this repository to your local machine using the following command:
      ```
-     git clone https://github.com/Dominiq217/Snake-the-game.git
+     https://github.com/dogopro1/Snake-the-game.git
      ```
 
 
@@ -35,6 +35,6 @@ To play Snake Game, follow these simple steps:
 
 ## Authors
 
-- [Dominiq217](https://github.com/Dominiq217)
+- [DogoPro](https://github.com/dogopro1)
  It's one of my early projects in C++. Feel free to reach out with any questions or feedback. Enjoy the game!
 
